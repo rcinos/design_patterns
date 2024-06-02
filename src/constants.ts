@@ -1,0 +1,1 @@
+export const logs = "C:\\projects\\ts\\design_patterns\\logs.txt"
