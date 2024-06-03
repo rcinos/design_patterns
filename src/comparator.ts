@@ -1,5 +1,5 @@
-import { Shape } from "./entities/shape/shape";
-import { Sphere } from "./entities/shape/extended/sphere";
+import { Shape } from "./entities/shape";
+import { Cone } from "./entities/cone";
 
 type TComparator<T> = (a: T, b: T) => number;
 
@@ -10,10 +10,10 @@ export class Comparator {
     return (a, b) => {
       let pointA = a.coords?.[0];
       let pointB = b.coords?.[0];
-      if (a instanceof Sphere) {
+      if (a instanceof Cone) {
         pointA = a.center;
       }
-      if (b instanceof Sphere) {
+      if (b instanceof Cone) {
         pointB = b.center;
       }
       if (!pointA || !pointB) {

@@ -1,4 +1,4 @@
-import { TShapeObserver, Updatable } from "./types/TShapeObserver";
+import { TShapeObserver, Updatable } from "./TShapeObserver";
 
 export class ShapeObserver {
   private listeners: TShapeObserver<any>[] = [];

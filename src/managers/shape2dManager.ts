@@ -1,8 +1,8 @@
-import { ShapeManager } from "../../shapeManager";
-import { Point2d } from "../../../../entities/point/implemented/point2d";
-import { Plane2dDimensions } from "../../../types/planeDimensions";
-import { getApproximateValue } from "../../../../functions/getApproximateValue";
-import { Shape2d } from "../../../../entities/shape/extended/quadrilateral";
+import { ShapeManager } from "./shapeManager";
+import { Point2d } from "../entities/point2d";
+import { Plane2dDimensions } from "./types/planeDimensions";
+import { getApproximateValue } from "../functions/getApproximateValue";
+import { Shape2d } from "../entities/oval";
 
 export abstract class Shape2dManager extends ShapeManager {
   abstract calculatePerimeter(shape: Shape2d): number;

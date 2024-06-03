@@ -1,10 +1,10 @@
-import { Shape } from "./entities/shape/shape";
+import { Shape } from "./entities/shape";
 import { observer } from "./observers/ShapeObserver";
 import { warehouse } from "./shapeWarehouse";
-import { Point } from "./entities/point/point";
-import { Shape2d } from "./entities/shape/extended/quadrilateral";
-import { Sphere } from "./entities/shape/extended/sphere";
+import { Oval } from "./entities/oval";
 import { Comparator } from "./comparator";
+import { Point2d } from "./entities/point2d";
+import { Point3d } from "./entities/point3d";
 
 export class Repository {
   private static instance: Repository;
@@ -33,7 +33,7 @@ export class Repository {
       subscriber: this,
     });
     observer.notify({
-      action: "update all",
+      action: "update",
       subscriber: warehouse,
       payload: shape,
     });
@@ -50,7 +50,7 @@ export class Repository {
       subscriber: this,
     });
     observer.notify({
-      action: "remove all",
+      action: "remove",
       subscriber: warehouse,
       payload: shape,
     });
@@ -66,25 +66,18 @@ export class Repository {
     return Array.from(this.shapes).find((s) => s.id === id);
   }
 
-  findByCoords(coords: Point[]): Shape[] {
+  findByCoords(point: Point2d | Point3d): Shape[] {
+    const coords = point.coords;
     return Array.from(this.shapes).filter((s) => {
-      if (s.coords && s.coords.length === coords.length) {
-        return s.coords.every(
-          (c, i) =>
-            c.coords.x === coords[i]!.coords.x &&
-            c.coords.y === coords[i]!.coords.y,
-        );
-      } else if (
-        s instanceof Sphere &&
-        s.center.coords.length === coords.length
-      ) {
+      if (Object.keys(coords).length === 3) {
         return (
-          s.center.coords.x === coords[0]!.coords.x &&
-          s.center.coords.y === coords[0]!.coords.y &&
-          s.center.coords.z === coords[0]!.coords.z
+          s.center.coords.x === coords.x &&
+          s.center.coords.y === coords.y &&
+          s.center.coords.z === coords.z
         );
+      } else {
+        return s.center.coords.x === coords.x && s.center.coords.y === coords.y;
       }
-      return false;
     });
   }
 
@@ -96,26 +89,38 @@ export class Repository {
     switch (quadrant) {
       case 1:
         return Array.from(this.shapes).filter((s) =>
-          s instanceof Shape2d && s.coords
-            ? s.coords.every((c) => c.coords.x > 0 && c.coords.y > 0)
+          s instanceof Oval
+            ? s.center.coords.x + s.radiusX > 0 &&
+              s.center.coords.x - s.radiusX > 0 &&
+              s.center.coords.y + s.radiusY > 0 &&
+              s.center.coords.y - s.radiusY > 0
             : [],
         );
       case 2:
         return Array.from(this.shapes).filter((s) =>
-          s instanceof Shape2d && s.coords
-            ? s.coords.every((c) => c.coords.x < 0 && c.coords.y > 0)
+          s instanceof Oval
+            ? s.center.coords.x - s.radiusX < 0 &&
+              s.center.coords.x + s.radiusX > 0 &&
+              s.center.coords.y + s.radiusY > 0 &&
+              s.center.coords.y - s.radiusY > 0
             : [],
         );
       case 3:
         return Array.from(this.shapes).filter((s) =>
-          s instanceof Shape2d && s.coords
-            ? s.coords.every((c) => c.coords.x < 0 && c.coords.y < 0)
+          s instanceof Oval
+            ? s.center.coords.x - s.radiusX < 0 &&
+              s.center.coords.x + s.radiusX < 0 &&
+              s.center.coords.y + s.radiusY < 0 &&
+              s.center.coords.y - s.radiusY < 0
             : [],
         );
       case 4:
         return Array.from(this.shapes).filter((s) =>
-          s instanceof Shape2d && s.coords
-            ? s.coords.every((c) => c.coords.x > 0 && c.coords.y < 0)
+          s instanceof Oval
+            ? s.center.coords.x - s.radiusX > 0 &&
+              s.center.coords.x + s.radiusX > 0 &&
+              s.center.coords.y + s.radiusY < 0 &&
+              s.center.coords.y - s.radiusY < 0
             : [],
         );
       default:
@@ -155,22 +160,18 @@ export class Repository {
 
   findByDistanceFromOrigin(distance: number): Shape[] {
     return Array.from(this.shapes).filter((s) => {
-      const coords = s.coords;
-      if (coords) {
-        const closestPoint = coords.reduce((acc, c) => {
-          const distanceToOrigin = Math.sqrt(c.coords.x ** 2 + c.coords.y ** 2);
-          return distanceToOrigin < acc ? distanceToOrigin : acc;
-        }, Infinity);
-        return closestPoint === distance;
-      } else if (s instanceof Sphere) {
+      if (Object.keys(s.center.coords).length !== 3) {
         const distanceToOrigin = Math.sqrt(
-          s.center.coords.x ** 2 +
-            s.center.coords.y ** 2 +
-            s.center.coords.z ** 2,
+          s.center.coords.x ** 2 + s.center.coords.y ** 2,
         );
         return distanceToOrigin === distance;
       }
-      return false;
+      const distanceToOrigin = Math.sqrt(
+        s.center.coords.x ** 2 +
+          s.center.coords.y ** 2 +
+          (s.center.coords.z as number) ** 2,
+      );
+      return distanceToOrigin === distance;
     });
   }
 
@@ -191,7 +192,7 @@ export class Repository {
       case "changed coords":
         console.log(`Shape with id ${payload.id} has changed its coordinates.`);
         observer.notify({
-          action: "update all",
+          action: "update",
           subscriber: warehouse,
           payload,
         });

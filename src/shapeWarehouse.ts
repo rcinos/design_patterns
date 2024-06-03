@@ -1,8 +1,8 @@
-import { Shape } from "./entities/shape/shape";
-import { Shape2d } from "./entities/shape/extended/quadrilateral";
-import { Shape3d } from "./entities/shape/extended/sphere";
-import { Shape3dManager } from "./managers/shapeManager/extended/shape3dManager/shape3dManager";
-import { Shape2dManager } from "./managers/shapeManager/extended/shape2dManager/shape2dManager";
+import { Shape } from "./entities/shape";
+import { Shape2d } from "./entities/oval";
+import { Shape3d } from "./entities/cone";
+import { Shape3dManager } from "./managers/shape3dManager";
+import { Shape2dManager } from "./managers/shape2dManager";
 import { observer } from "./observers/ShapeObserver";
 
 export interface ShapeWarehouse {
@@ -17,7 +17,7 @@ class Warehouse implements ShapeWarehouse {
 
   private constructor() {
     observer.subscribe({
-      action: "update all",
+      action: "update",
       subscriber: this,
     });
   }
@@ -55,7 +55,7 @@ class Warehouse implements ShapeWarehouse {
 
   update(eventType: string, shape: Shape): void {
     const shapeManager = shape.manager;
-    if (eventType === "update all") {
+    if (eventType === "update") {
       if (shape instanceof Shape2d) {
         this.updatePerimeter(
           shape,
@@ -68,7 +68,7 @@ class Warehouse implements ShapeWarehouse {
         );
       }
       this.updateArea(shape, shapeManager.calculateArea(shape));
-    } else if (eventType === "remove all") {
+    } else if (eventType === "remove") {
       if (shape instanceof Shape2d) {
         this.perimeters.delete(shape);
       } else if (shape instanceof Shape3d) {

@@ -1,87 +1,89 @@
-import { Quadrilateral } from "../src/entities/shape/extended/quadrilateral";
-import { Sphere } from "../src/entities/shape/extended/sphere";
+import { Oval } from "../src/entities/oval";
+import { Cone } from "../src/entities/cone";
 import { Repository } from "../src/repository";
-import { fileReader } from "../fileReader";
-import { QuadrilateralFactory } from "../src/factories/shapeFactory/implemented/quadrilateralFactory";
-import { SphereFactory } from "../src/factories/shapeFactory/implemented/sphereFactory";
-import { SphereManager } from "../src/managers/shapeManager/extended/shape3dManager/extended/sphereManager";
-import { QuadrilateralManager } from "../src/managers/shapeManager/extended/shape2dManager/extended/quadrilateralManager";
+import { OvalFactory } from "../src/factories/ovalFactory";
+import { ConeFactory } from "../src/factories/coneFactory";
+import { ConeManager } from "../src/managers/coneManager";
+import { OvalManager } from "../src/managers/ovalManager";
+import { warehouse } from "../src/shapeWarehouse";
+import fs from "fs";
 
-const coordsForQuadrilateral = fileReader(
-  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validQuadrilateral.txt",
+function reader(path: string): string[] {
+  const data = fs.readFileSync(path, "utf8");
+  return data.split("\n").map((str) => str.replace("\r", ""));
+}
+
+const coordsForOval = reader(
+  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validOval.txt",
 );
 
-const coordsForSphere = fileReader(
-  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validSphere.txt",
+const coordsForCone = reader(
+  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validCone.txt",
 );
 let counter = 0;
 
-const sphereManager = new SphereManager();
-const quadrilateralManager = new QuadrilateralManager();
+const coneManager = new ConeManager();
+const ovalManager = new OvalManager();
 
 describe("Repository", () => {
   const repository: Repository = Repository.getInstance();
-  const quadrilateralFactory = new QuadrilateralFactory();
-  const sphereFactory = new SphereFactory();
-  let sphere: Sphere;
-  let quadrilateral: Quadrilateral;
+  const ovalFactory = new OvalFactory();
+  const coneFactory = new ConeFactory();
+  let cone: Cone;
+  let oval: Oval;
 
   beforeEach(() => {
     repository.reset();
-    quadrilateral = quadrilateralFactory.createShape(
-      coordsForQuadrilateral[counter] as string,
-    );
-    sphere = sphereFactory.createShape(coordsForSphere[counter] as string);
+    oval = ovalFactory.createShape(coordsForOval[counter] as string);
+    cone = coneFactory.createShape(coordsForCone[counter] as string);
   });
 
   test("add method should add a shape to the repository", () => {
-    repository.add(quadrilateral);
-    expect(repository.findById(quadrilateral.id)).toStrictEqual(quadrilateral);
+    repository.add(oval);
+    expect(repository.findById(oval.id)).toStrictEqual(oval);
   });
 
   test("remove method should remove a shape from the repository", () => {
-    repository.add(quadrilateral);
-    repository.remove(quadrilateral);
-    expect(repository.findById(quadrilateral.id)).toBeUndefined();
+    repository.add(oval);
+    repository.remove(oval);
+    expect(repository.findById(oval.id)).toBeUndefined();
   });
 
   test("findById method should return a shape by its id", () => {
-    repository.add(quadrilateral);
-    expect(repository.findById(quadrilateral.id)).toStrictEqual(quadrilateral);
+    repository.add(oval);
+    expect(repository.findById(oval.id)).toStrictEqual(oval);
   });
 
   test("findByCoords method should return shapes by their coordinates", () => {
-    repository.add(quadrilateral);
-    expect(repository.findByCoords(quadrilateral.coords)).toContain(
-      quadrilateral,
-    );
+    repository.add(oval);
+    expect(repository.findByCoords(oval.center)).toContain(oval);
   });
 
   test("findByName method should return shapes by their name", () => {
-    repository.add(quadrilateral);
-    expect(repository.findByName(quadrilateral.name)).toContain(quadrilateral);
+    repository.add(oval);
+    expect(repository.findByName(oval.name)).toContain(oval);
   });
 
   test("findByQuadrant method should return shapes by their quadrant", () => {
-    repository.add(quadrilateral);
-    expect(repository.findByQuadrant(1)).toContain(quadrilateral);
+    repository.add(oval);
+    expect(repository.findByQuadrant(1)).toContain(oval);
   });
 
   test("findShapesByPropertyRange method should return shapes by their property range", () => {
-    repository.add(sphere);
-    repository.add(quadrilateral);
+    repository.add(cone);
+    repository.add(oval);
     const toContain = [];
     if (
-      sphereManager.calculateArea(sphere) >= 0 &&
-      sphereManager.calculateArea(sphere) <= 10
+      coneManager.calculateArea(cone) >= 0 &&
+      coneManager.calculateArea(cone) <= 10
     ) {
-      toContain.push(sphere);
+      toContain.push(cone);
     }
     if (
-      quadrilateralManager.calculateArea(quadrilateral) >= 0 &&
-      quadrilateralManager.calculateArea(quadrilateral) <= 10
+      ovalManager.calculateArea(oval) >= 0 &&
+      ovalManager.calculateArea(oval) <= 10
     ) {
-      toContain.push(quadrilateral);
+      toContain.push(oval);
     }
     console.log(toContain);
     expect(repository.findShapesByPropertyRange("area", [0, 10])).toEqual(
@@ -90,25 +92,62 @@ describe("Repository", () => {
   });
 
   test("findByDistanceFromOrigin method should return shapes by their distance from origin", () => {
-    repository.add(sphere);
-    expect(repository.findByDistanceFromOrigin(Math.sqrt(2))).toEqual([sphere]);
+    repository.add(cone);
+    expect(repository.findByDistanceFromOrigin(Math.sqrt(2))).toEqual([cone]);
   });
 
   test("sortById method should return shapes sorted by their id", () => {
-    repository.add(quadrilateral);
-    repository.add(sphere);
-    expect(repository.sortById()).toEqual([quadrilateral, sphere]);
+    repository.add(oval);
+    repository.add(cone);
+    expect(repository.sortById()).toEqual([oval, cone]);
   });
 
   test("sortByNames method should return shapes sorted by their name", () => {
-    repository.add(quadrilateral);
-    repository.add(sphere);
-    expect(repository.sortByNames()).toEqual([quadrilateral, sphere]);
+    repository.add(oval);
+    repository.add(cone);
+    expect(repository.sortByNames()).toEqual([oval, cone]);
   });
 
   test("sortByFirstPoint method should return shapes sorted by their first point", () => {
-    repository.add(quadrilateral);
-    repository.add(sphere);
-    expect(repository.sortByFirstPoint("x")).toEqual([sphere, quadrilateral]);
+    repository.add(oval);
+    repository.add(cone);
+    expect(repository.sortByFirstPoint("x")).toEqual([cone, oval]);
   });
+});
+
+describe("Warehouse", () => {
+  const repository: Repository = Repository.getInstance();
+  const ovalFactory = new OvalFactory();
+  const coneFactory = new ConeFactory();
+
+  test.each(coordsForOval)(
+    "getPerimeter method should return a shape perimeter",
+    (coords) => {
+      const oval = ovalFactory.createShape(coords);
+      repository.add(oval);
+      warehouse.getPerimeter(oval);
+      expect(warehouse.getPerimeter(oval)).toBe(
+        ovalManager.calculatePerimeter(oval),
+      );
+    },
+  );
+
+  test.each(coordsForCone)(
+    "getVolume method should return a shape perimeter",
+    (coords) => {
+      const cone = coneFactory.createShape(coords);
+      repository.add(cone);
+      expect(warehouse.getVolume(cone)).toBe(coneManager.calculateVolume(cone));
+    },
+  );
+
+  test.each(coordsForOval)(
+    "getArea method should return a shape area",
+    (coords) => {
+      const oval = ovalFactory.createShape(coords);
+      repository.add(oval);
+      warehouse.getPerimeter(oval);
+      expect(warehouse.getArea(oval)).toBe(ovalManager.calculateArea(oval));
+    },
+  );
 });
