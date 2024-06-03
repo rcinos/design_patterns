@@ -40,13 +40,13 @@ export class ConeFactory implements ShapeFactory {
       }
     });
 
-    if (coords.length < 5) {
+    if (coords.length !== 5) {
       throw new Error(
         "Invalid coordinates for a Cone. Please provide 1 3d point and radius and height.",
       );
     }
-
-    if (this.validator.areValidCoords(Number(coords[coords.length - 2]))) {
+    console.log(coords[coords.length - 2]);
+    if (!this.validator.areValidCoords(Number(coords[coords.length - 2]))) {
       throw new Error(
         "Invalid coordinates for a Cone. Please provide 1 3d point and radius and height.",
       );

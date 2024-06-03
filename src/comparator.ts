@@ -1,27 +1,12 @@
-import { Shape } from "./entities/shape";
 import { Cone } from "./entities/cone";
+import { Oval } from "./entities/oval";
 
 type TComparator<T> = (a: T, b: T) => number;
 
 export class Comparator {
-  public static byFirstPoint<T extends Shape>(
+  public static byFirstPoint<T extends Oval | Cone>(
     point: "x" | "y" | "z",
   ): TComparator<T> {
-    return (a, b) => {
-      let pointA = a.coords?.[0];
-      let pointB = b.coords?.[0];
-      if (a instanceof Cone) {
-        pointA = a.center;
-      }
-      if (b instanceof Cone) {
-        pointB = b.center;
-      }
-      if (!pointA || !pointB) {
-        throw new Error("Invalid point index");
-      }
-      return (
-        (pointA.coords[point] as number) - (pointB.coords[point] as number)
-      );
-    };
+    return (a, b) => a.center.coords[point] - b.center.coords[point];
   }
 }

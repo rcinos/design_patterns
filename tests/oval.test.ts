@@ -4,10 +4,8 @@ import * as fs from "fs";
 import { Oval } from "../src/entities/oval";
 import { OvalManager } from "../src/managers/ovalManager";
 
-const validPath =
-  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validOval.txt";
-const invalidPath =
-  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\invalidOval.txt";
+const validPath = "./coordinates/validOval.txt";
+const invalidPath = "./coordinates/invalidOval.txt";
 
 const data = fs.readFileSync(validPath, "utf8");
 const invalidData = fs.readFileSync(invalidPath, "utf8");
@@ -30,7 +28,7 @@ describe("Oval creation", () => {
       ovalFactory.createShape(coords);
     } catch (err) {
       expect(err.message).toBe(
-        "Incorrect input data. You need 4 2d points to create a Oval",
+        "Invalid coordinates for a Oval. Please provide 1 2d point and 2 radius.",
       );
     }
   });
@@ -49,52 +47,52 @@ describe("Oval calculations", () => {
     const { oval, manager } = initializeFields();
     console.log(manager, oval);
     const perimeter = manager.calculatePerimeter(oval);
-    expect(perimeter).toBeCloseTo(11.404918347287664, 1 / 10 ** 12);
+    expect(perimeter).toBeCloseTo(16.20900706, 1 / 10 ** 12);
   });
   test("Oval's perimeter", () => {
     const { oval, manager } = initializeFields();
     const perimeter = manager.calculatePerimeter(oval);
-    expect(perimeter).toBeCloseTo(8, 1 / 10 ** 12);
+    expect(perimeter).toBeCloseTo(23.6121050996, 1 / 10 ** 12);
   });
   test("Oval's perimeter", () => {
     const { oval, manager } = initializeFields();
     const perimeter = manager.calculatePerimeter(oval);
-    expect(perimeter).toBeCloseTo(12, 1 / 10 ** 12);
+    expect(perimeter).toBeCloseTo(41.1157972632, 1 / 10 ** 12);
   });
   test("Oval's perimeter", () => {
     const { oval, manager } = initializeFields();
     const perimeter = manager.calculatePerimeter(oval);
-    expect(perimeter).toBeCloseTo(15.8, 1 / 10 ** 12);
+    expect(perimeter).toBeCloseTo(50.3245558305, 1 / 10 ** 12);
   });
   test("Oval's perimeter", () => {
     const { oval, manager } = initializeFields();
     const perimeter = manager.calculatePerimeter(oval);
-    expect(perimeter).toBeCloseTo(11, 1 / 10 ** 12);
+    expect(perimeter).toBeCloseTo(2.672887957447, 1 / 10 ** 12);
   });
   test("Oval's area", () => {
     coordsAssigner = 0;
     const { oval, manager } = initializeFields();
     const area = manager.calculateArea(oval);
-    expect(area).toBeCloseTo(6, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(19.47787445225, 1 / 10 ** 12);
   });
   test("Oval's area", () => {
     const { oval, manager } = initializeFields();
     const area = manager.calculateArea(oval);
-    expect(area).toBeCloseTo(4, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(33.64645731994, 1 / 10 ** 12);
   });
   test("Oval's area", () => {
     const { oval, manager } = initializeFields();
     const area = manager.calculateArea(oval);
-    expect(area).toBeCloseTo(9, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(34.903094381, 1 / 10 ** 12);
   });
   test("Oval's area", () => {
     const { oval, manager } = initializeFields();
     const area = manager.calculateArea(oval);
-    expect(area).toBeCloseTo(14.04, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(79.8278693277, 1 / 10 ** 12);
   });
   test("Oval's area", () => {
     const { oval, manager } = initializeFields();
     const area = manager.calculateArea(oval);
-    expect(area).toBeCloseTo(7.5, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(0.3769911184307, 1 / 10 ** 12);
   });
 });

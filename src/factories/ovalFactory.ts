@@ -40,7 +40,7 @@ export class OvalFactory implements ShapeFactory {
       }
     });
 
-    if (coords.length < 4) {
+    if (coords.length !== 4) {
       throw new Error(
         "Invalid coordinates for a Oval. Please provide 1 2d point and 2 radius.",
       );
@@ -51,7 +51,7 @@ export class OvalFactory implements ShapeFactory {
         "Invalid coordinates for a Oval. Please provide 1 2d point and 2 radius.",
       );
     }
-
+    console.log(coords[coords.length - 1]);
     if (!this.validator.areValidCoords(Number(coords[coords.length - 1]))) {
       throw new Error(
         "Invalid coordinates for a Oval. Please provide 1 2d point and 2 radius.",

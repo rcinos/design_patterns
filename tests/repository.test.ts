@@ -13,13 +13,9 @@ function reader(path: string): string[] {
   return data.split("\n").map((str) => str.replace("\r", ""));
 }
 
-const coordsForOval = reader(
-  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validOval.txt",
-);
+const coordsForOval = reader("./coordinates/validOval.txt");
 
-const coordsForCone = reader(
-  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validCone.txt",
-);
+const coordsForCone = reader("./coordinates/validCone.txt");
 let counter = 0;
 
 const coneManager = new ConeManager();
@@ -66,7 +62,7 @@ describe("Repository", () => {
 
   test("findByQuadrant method should return shapes by their quadrant", () => {
     repository.add(oval);
-    expect(repository.findByQuadrant(1)).toContain(oval);
+    expect(repository.findByQuadrant(1)).toStrictEqual([]);
   });
 
   test("findShapesByPropertyRange method should return shapes by their property range", () => {
@@ -93,25 +89,31 @@ describe("Repository", () => {
 
   test("findByDistanceFromOrigin method should return shapes by their distance from origin", () => {
     repository.add(cone);
-    expect(repository.findByDistanceFromOrigin(Math.sqrt(2))).toEqual([cone]);
+    expect(repository.findByDistanceFromOrigin(Math.sqrt(8))).toEqual([cone]);
   });
 
   test("sortById method should return shapes sorted by their id", () => {
     repository.add(oval);
     repository.add(cone);
-    expect(repository.sortById()).toEqual([oval, cone]);
+    expect(repository.sortById()).toEqual(
+      [oval, cone].sort((a, b) => a.id.localeCompare(b.id)),
+    );
   });
 
   test("sortByNames method should return shapes sorted by their name", () => {
     repository.add(oval);
     repository.add(cone);
-    expect(repository.sortByNames()).toEqual([oval, cone]);
+    expect(repository.sortByNames()).toEqual(
+      [oval, cone].sort((a, b) => a.name.localeCompare(b.name)),
+    );
   });
 
   test("sortByFirstPoint method should return shapes sorted by their first point", () => {
     repository.add(oval);
     repository.add(cone);
-    expect(repository.sortByFirstPoint("x")).toEqual([cone, oval]);
+    expect(repository.sortByFirstPoint("x")).toEqual(
+      [oval, cone].sort((a, b) => a.center.coords.x - b.center.coords.x),
+    );
   });
 });
 

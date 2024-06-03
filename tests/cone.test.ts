@@ -4,10 +4,8 @@ import { ConeFactory } from "../src/factories/coneFactory";
 import { Cone } from "../src/entities/cone";
 import { ConeManager } from "../src/managers/coneManager";
 
-const validPath =
-  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validCone.txt";
-const invalidPath =
-  "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\invalidCone.txt";
+const validPath = "./coordinates/validCone.txt";
+const invalidPath = "./coordinates/invalidCone.txt";
 
 const data = fs.readFileSync(validPath, "utf8");
 const invalidData = fs.readFileSync(invalidPath, "utf8");
@@ -28,7 +26,7 @@ describe("Cone creation", () => {
       coneFactory.createShape(coords);
     } catch (err) {
       expect(err.message).toBe(
-        "Incorrect input data. You need 1 3d point and positive radius to create a cone",
+        "Invalid coordinates for a Cone. Please provide 1 3d point and radius and height.",
       );
     }
   });
@@ -46,52 +44,52 @@ describe("Cone calculations", () => {
   test("Cone's volume", () => {
     const { cone, manager } = initializeFields();
     const volume = manager.calculateVolume(cone);
-    expect(volume).toBeCloseTo(113.04, 1 / 10 ** 12);
+    expect(volume).toBeCloseTo(221.3985062739847, 1 / 10 ** 12);
   });
   test("Cone's volume", () => {
     const { cone, manager } = initializeFields();
     const volume = manager.calculateVolume(cone);
-    expect(volume).toBeCloseTo(523.6, 1 / 10 ** 12);
+    expect(volume).toBeCloseTo(626.464991052, 1 / 10 ** 12);
   });
   test("Cone's volume", () => {
     const { cone, manager } = initializeFields();
     const volume = manager.calculateVolume(cone);
-    expect(volume).toBeCloseTo(4188.79, 1 / 10 ** 12);
+    expect(volume).toBeCloseTo(2563.79093274, 1 / 10 ** 12);
   });
   test("Cone's volume", () => {
     const { cone, manager } = initializeFields();
     const volume = manager.calculateVolume(cone);
-    expect(volume).toBeCloseTo(7238.23, 1 / 10 ** 12);
+    expect(volume).toBeCloseTo(3833.00483676, 1 / 10 ** 12);
   });
   test("Cone's volume", () => {
     const { cone, manager } = initializeFields();
     const volume = manager.calculateVolume(cone);
-    expect(volume).toBeCloseTo(0.524, 1 / 10 ** 12);
+    expect(volume).toBeCloseTo(9.8017690792, 1 / 10 ** 12);
   });
   test("Cone's area", () => {
     coordsAssigner = 0;
     const { cone, manager } = initializeFields();
     const area = manager.calculateArea(cone);
-    expect(area).toBeCloseTo(113.04, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(246.5639418863, 1 / 10 ** 12);
   });
   test("Cone's area", () => {
     const { cone, manager } = initializeFields();
     const area = manager.calculateArea(cone);
-    expect(area).toBeCloseTo(314.16, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(459.1724054, 1 / 10 ** 12);
   });
   test("Cone's area", () => {
     const { cone, manager } = initializeFields();
     const area = manager.calculateArea(cone);
-    expect(area).toBeCloseTo(1256.64, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(1146.68167693, 1 / 10 ** 12);
   });
   test("Cone's area", () => {
     const { cone, manager } = initializeFields();
     const area = manager.calculateArea(cone);
-    expect(area).toBeCloseTo(1809.56, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(1515.751385098, 1 / 10 ** 12);
   });
   test("Cone's area", () => {
     const { cone, manager } = initializeFields();
     const area = manager.calculateArea(cone);
-    expect(area).toBeCloseTo(3.14, 1 / 10 ** 12);
+    expect(area).toBeCloseTo(50.15286670693, 1 / 10 ** 12);
   });
 });

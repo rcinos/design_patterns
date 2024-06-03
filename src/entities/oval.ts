@@ -36,10 +36,6 @@ export class Oval extends Shape2d {
         subscriber: repository,
         payload: this,
       });
-    } else {
-      throw new Error(
-        "Incorrect input data. You need 4 2d points to create a Oval",
-      );
     }
   }
 
@@ -56,11 +52,11 @@ export class Oval extends Shape2d {
           subscriber: repository,
           payload: this,
         });
-      } else {
-        throw new Error(
-          "Incorrect input data. You need 4 2d points to create a Oval",
-        );
       }
+    } else {
+      throw new Error(
+        "Invalid coordinates for a Oval. Please provide 1 2d point and 2 radius.",
+      );
     }
   }
 
@@ -77,11 +73,11 @@ export class Oval extends Shape2d {
           subscriber: repository,
           payload: this,
         });
-      } else {
-        throw new Error(
-          "Incorrect input data. You need 4 2d points to create a Oval",
-        );
       }
+    } else {
+      throw new Error(
+        "Invalid coordinates for a Oval. Please provide 1 2d point and 2 radius.",
+      );
     }
   }
 

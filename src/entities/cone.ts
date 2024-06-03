@@ -46,7 +46,7 @@ export class Cone extends Shape3d {
       }
     } else {
       throw new Error(
-        "Invalid coordinates for a cone. Please provide 1 3d point and positive radius.",
+        "Invalid coordinates for a Cone. Please provide 1 3d point and radius and height.",
       );
     }
   }
@@ -76,7 +76,7 @@ export class Cone extends Shape3d {
       }
     } else {
       throw new Error(
-        "Invalid coordinates for a cone. Please provide 1 3d point and positive radius.",
+        "Invalid coordinates for a Cone. Please provide 1 3d point and radius and height.",
       );
     }
   }
