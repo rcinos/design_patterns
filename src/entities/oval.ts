@@ -2,7 +2,7 @@ import { Point2d } from "./point2d";
 import { Shape } from "./shape";
 import { OvalValidator } from "../validators/ovalValidator";
 import { repository } from "../repository";
-import { observer } from "../observers/ShapeObserver";
+import { observer } from "../observer";
 import { OvalManager } from "../managers/ovalManager";
 
 export abstract class Shape2d extends Shape {}
@@ -32,9 +32,9 @@ export class Oval extends Shape2d {
     this._center = value;
     if (repository.findById(this.id)) {
       observer.notify({
-        action: "changed coords",
+        event: "replaced coordinates",
         subscriber: repository,
-        payload: this,
+        hook: this,
       });
     }
   }
@@ -48,9 +48,9 @@ export class Oval extends Shape2d {
       this._radiusX = value;
       if (repository.findById(this.id)) {
         observer.notify({
-          action: "changed coords",
+          event: "replaced coordinates",
           subscriber: repository,
-          payload: this,
+          hook: this,
         });
       }
     } else {
@@ -69,9 +69,9 @@ export class Oval extends Shape2d {
       this._radiusY = value;
       if (repository.findById(this.id)) {
         observer.notify({
-          action: "changed coords",
+          event: "replaced coordinates",
           subscriber: repository,
-          payload: this,
+          hook: this,
         });
       }
     } else {

@@ -1,3192 +1,4054 @@
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's area - 14.040000000000001
-Oval is convex - true
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's perimeter - 11.404918347287664
-Oval's area - 6.000000000000001
-Oval is convex - true
-Oval is trapezoid - true
-Oval is convex - true
-Oval is rectangle - false
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Oval's perimeter - 15.8
-Oval's area - 14.040000000000001
-Oval is convex - true
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Oval's perimeter - 11
-Oval's area - 7.5
-Oval is convex - true
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11
-Oval's area - 7.5
-Oval is convex - true
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Oval's perimeter - 11
-Oval's area - 7.5
-Oval is convex - true
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Cone's area - 113.09733552923255
-Cone's volume - 113.09733552923254
-Oval's perimeter - 11
-Oval is convex - true
-Oval's area - 7.5
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Cone's area - 314.1592653589793
-Cone's volume - 523.5987755982989
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 113.09733552923254
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 113.09733552923255
-Oval's perimeter - 11
-Oval's area - 7.5
-Oval is convex - true
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Cone's area - 1256.6370614359173
-Cone's volume - 4188.790204786391
-Oval's perimeter - 11
-Oval's area - 7.5
-Oval is convex - true
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Cone's area - 1809.5573684677208
-Cone's volume - 7238.229473870882
-Oval's perimeter - 11
-Oval's area - 7.5
-Oval is convex - true
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Cone's area - 113.09733552923255
-Cone's volume - 113.09733552923254
-Oval's perimeter - 11
-Oval's area - 7.5
-Oval is convex - true
-Oval is trapezoid - false
-Oval is convex - true
-Oval is rectangle - true
-Oval is convex - true
-Oval is rhombus - false
-Oval is square - false
-Oval is convex - true
-Oval is convex - true
-Oval is rhombus - false
-Cone's area - 3.141592653589793
-Cone's volume - 0.5235987755982988
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 0.5235987755982988
-Cone's area - 314.1592653589793
-Cone's area - 113.09733552923255
-Cone's volume - 7238.229473870882
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 1256.6370614359173
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's area - 314.1592653589793
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Oval's perimeter - 11.404918347287664
-Oval's perimeter - 8
-Oval's perimeter - 12
-Oval's perimeter - 15.8
-Oval's perimeter - 11
-Oval's area - 6.000000000000001
-Oval's area - 4
-Oval's area - 9
-Oval's area - 14.040000000000001
-Oval's area - 7.5
-Cone's volume - 113.09733552923254
-Cone's volume - 523.5987755982989
-Cone's volume - 4188.790204786391
-Cone's volume - 7238.229473870882
-Cone's volume - 0.5235987755982988
-Cone's area - 113.09733552923255
-Cone's area - 314.1592653589793
-Cone's area - 1256.6370614359173
-Cone's area - 1809.5573684677208
-Cone's area - 3.141592653589793
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's volume -
-Cone's volume -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's area -
-Cone's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Cone's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Cone's area -
-Oval's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Cone's area -
-Oval's area -
-Cone's volume -
-Oval's perimeter
-Cone's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Cone's area -
-Oval's perimeter
-Cone's area -
-Oval's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's area -
-Cone's area -
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Oval's perimeter
-Cone's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Cone's area -
-Oval's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Cone's area -
-Cone's volume -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Cone's volume -
-Oval's area -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Oval's perimeter
-Cone's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's area -
-Cone's area -
-Oval's area -
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Cone's volume -
-Cone's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Cone's area -
-Cone's volume -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's perimeter
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
-Oval's area -
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's area - 14.040000000000001
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's area - 6.000000000000001
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - true
+Quadrilateral is convex - true
+Quadrilateral is rectangle - false
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral's perimeter - 15.8
+Quadrilateral's area - 14.040000000000001
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 7.5
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 7.5
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 7.5
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Sphere's area - 113.09733552923255
+Sphere's volume - 113.09733552923254
+Quadrilateral's perimeter - 11
+Quadrilateral is convex - true
+Quadrilateral's area - 7.5
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Sphere's area - 314.1592653589793
+Sphere's volume - 523.5987755982989
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 113.09733552923254
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 113.09733552923255
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 7.5
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Sphere's area - 1256.6370614359173
+Sphere's volume - 4188.790204786391
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 7.5
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Sphere's area - 1809.5573684677208
+Sphere's volume - 7238.229473870882
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 7.5
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Sphere's area - 113.09733552923255
+Sphere's volume - 113.09733552923254
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 7.5
+Quadrilateral is convex - true
+Quadrilateral is trapezoid - false
+Quadrilateral is convex - true
+Quadrilateral is rectangle - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Quadrilateral is square - false
+Quadrilateral is convex - true
+Quadrilateral is convex - true
+Quadrilateral is rhombus - false
+Sphere's area - 3.141592653589793
+Sphere's volume - 0.5235987755982988
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 0.5235987755982988
+Sphere's area - 314.1592653589793
+Sphere's area - 113.09733552923255
+Sphere's volume - 7238.229473870882
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 1256.6370614359173
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's area - 314.1592653589793
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Quadrilateral's perimeter - 11.404918347287664
+Quadrilateral's perimeter - 8
+Quadrilateral's perimeter - 12
+Quadrilateral's perimeter - 15.8
+Quadrilateral's perimeter - 11
+Quadrilateral's area - 6.000000000000001
+Quadrilateral's area - 4
+Quadrilateral's area - 9
+Quadrilateral's area - 14.040000000000001
+Quadrilateral's area - 7.5
+Sphere's volume - 113.09733552923254
+Sphere's volume - 523.5987755982989
+Sphere's volume - 4188.790204786391
+Sphere's volume - 7238.229473870882
+Sphere's volume - 0.5235987755982988
+Sphere's area - 113.09733552923255
+Sphere's area - 314.1592653589793
+Sphere's area - 1256.6370614359173
+Sphere's area - 1809.5573684677208
+Sphere's area - 3.141592653589793
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's area - 
+Sphere's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Quadrilateral's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Sphere's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Sphere's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Quadrilateral's perimeter
+Sphere's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Quadrilateral's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Sphere's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's perimeter
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's perimeter: 8
+Quadrilateral's perimeter: 12
+Quadrilateral's perimeter: 15.8
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's area: 4
+Quadrilateral's area: 9
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11.404918347287664
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's perimeter: 8
+Quadrilateral's area: 4
+Quadrilateral's perimeter: 8
+Quadrilateral's area: 4
+Quadrilateral's perimeter: 8
+Quadrilateral's perimeter: 12
+Quadrilateral's area: 9
+Quadrilateral's perimeter: 12
+Quadrilateral's area: 9
+Quadrilateral's perimeter: 12
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's perimeter: 17.6
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's perimeter: 23
+Quadrilateral's area: 32.5
+Quadrilateral's perimeter: 23
+Quadrilateral's area: 32.5
+Quadrilateral's perimeter: 23
+Quadrilateral's perimeter: 15
+Quadrilateral's area: 14
+Quadrilateral's perimeter: 15
+Quadrilateral's area: 14
+Quadrilateral's perimeter: 15
+Quadrilateral's perimeter: 26
+Quadrilateral's area: 37.41
+Quadrilateral's perimeter: 26
+Quadrilateral's area: 37.41
+Quadrilateral's perimeter: 26
+Quadrilateral's perimeter: 33
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's perimeter: 33
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's perimeter: 33
+Quadrilateral's perimeter: 19
+Quadrilateral's area: 22.5
+Quadrilateral's perimeter: 19
+Quadrilateral's area: 22.5
+Quadrilateral's perimeter: 19
+Quadrilateral's perimeter: 40.6
+Quadrilateral's area: 94.9
+Quadrilateral's perimeter: 40.6
+Quadrilateral's area: 94.9
+Quadrilateral's perimeter: 40.6
+Quadrilateral's perimeter: 25.4
+Quadrilateral's area: 38.5
+Quadrilateral's perimeter: 25.4
+Quadrilateral's area: 38.5
+Quadrilateral's perimeter: 25.4
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's perimeter: 48.8
+Quadrilateral's area: 141
+Quadrilateral's perimeter: 48.8
+Quadrilateral's area: 141
+Quadrilateral's perimeter: 48.8
+Quadrilateral's perimeter: 40.4
+Quadrilateral's area: 95.25
+Quadrilateral's perimeter: 40.4
+Quadrilateral's area: 95.25
+Quadrilateral's perimeter: 40.4
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's area: 201.24
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's area: 201.24
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's perimeter: 47.400000000000006
+Quadrilateral's area: 132.29999999999998
+Quadrilateral's perimeter: 47.400000000000006
+Quadrilateral's area: 132.29999999999998
+Quadrilateral's perimeter: 47.400000000000006
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 8
+Quadrilateral's area: 4
+Quadrilateral's perimeter: 8
+Quadrilateral's area: 4
+Quadrilateral's area: 4
+Quadrilateral's perimeter: 12
+Quadrilateral's area: 9
+Quadrilateral's perimeter: 12
+Quadrilateral's area: 9
+Quadrilateral's area: 9
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 23
+Quadrilateral's area: 32.5
+Quadrilateral's perimeter: 23
+Quadrilateral's area: 32.5
+Quadrilateral's area: 32.5
+Quadrilateral's perimeter: 15
+Quadrilateral's area: 14
+Quadrilateral's perimeter: 15
+Quadrilateral's area: 14
+Quadrilateral's area: 14
+Quadrilateral's perimeter: 26
+Quadrilateral's area: 37.41
+Quadrilateral's perimeter: 26
+Quadrilateral's area: 37.41
+Quadrilateral's area: 37.41
+Quadrilateral's perimeter: 33
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's perimeter: 33
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's perimeter: 19
+Quadrilateral's area: 22.5
+Quadrilateral's perimeter: 19
+Quadrilateral's area: 22.5
+Quadrilateral's area: 22.5
+Quadrilateral's perimeter: 40.6
+Quadrilateral's area: 94.9
+Quadrilateral's perimeter: 40.6
+Quadrilateral's area: 94.9
+Quadrilateral's area: 94.9
+Quadrilateral's perimeter: 25.4
+Quadrilateral's area: 38.5
+Quadrilateral's perimeter: 25.4
+Quadrilateral's area: 38.5
+Quadrilateral's area: 38.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 48.8
+Quadrilateral's area: 141
+Quadrilateral's perimeter: 48.8
+Quadrilateral's area: 141
+Quadrilateral's area: 141
+Quadrilateral's perimeter: 40.4
+Quadrilateral's area: 95.25
+Quadrilateral's perimeter: 40.4
+Quadrilateral's area: 95.25
+Quadrilateral's area: 95.25
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's area: 201.24
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's area: 201.24
+Quadrilateral's area: 201.24
+Quadrilateral's perimeter: 47.400000000000006
+Quadrilateral's area: 132.29999999999998
+Quadrilateral's perimeter: 47.400000000000006
+Quadrilateral's area: 132.29999999999998
+Quadrilateral's area: 132.29999999999998
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's perimeter: 8
+Quadrilateral's perimeter: 12
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 4
+Quadrilateral's area: 9
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter: 11.404918347287664
+Sphere's volume - 
+Quadrilateral's area: 6.000000000000001
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's area - 
+Sphere's area - 
+Sphere's area - 
+Sphere's area - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's perimeter: 8
+Quadrilateral's area: 4
+Quadrilateral's perimeter: 8
+Quadrilateral's area: 4
+Quadrilateral's perimeter: 8
+Quadrilateral's perimeter: 12
+Quadrilateral's area: 9
+Quadrilateral's perimeter: 12
+Quadrilateral's area: 9
+Quadrilateral's perimeter: 12
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's perimeter: 11
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's perimeter: 23
+Quadrilateral's area: 32.5
+Quadrilateral's perimeter: 23
+Quadrilateral's area: 32.5
+Quadrilateral's perimeter: 23
+Quadrilateral's perimeter: 15
+Quadrilateral's area: 14
+Quadrilateral's perimeter: 15
+Quadrilateral's area: 14
+Quadrilateral's perimeter: 15
+Quadrilateral's perimeter: 26
+Quadrilateral's area: 37.41
+Quadrilateral's perimeter: 26
+Quadrilateral's area: 37.41
+Quadrilateral's perimeter: 26
+Quadrilateral's perimeter: 33
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's perimeter: 33
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's perimeter: 33
+Quadrilateral's perimeter: 19
+Quadrilateral's area: 22.5
+Quadrilateral's perimeter: 19
+Quadrilateral's area: 22.5
+Quadrilateral's perimeter: 19
+Quadrilateral's perimeter: 40.6
+Quadrilateral's area: 94.9
+Quadrilateral's perimeter: 40.6
+Quadrilateral's area: 94.9
+Quadrilateral's perimeter: 40.6
+Quadrilateral's perimeter: 25.4
+Quadrilateral's area: 38.5
+Quadrilateral's perimeter: 25.4
+Quadrilateral's area: 38.5
+Quadrilateral's perimeter: 25.4
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's perimeter: 48.8
+Quadrilateral's area: 141
+Quadrilateral's perimeter: 48.8
+Quadrilateral's area: 141
+Quadrilateral's perimeter: 48.8
+Quadrilateral's perimeter: 40.4
+Quadrilateral's area: 95.25
+Quadrilateral's perimeter: 40.4
+Quadrilateral's area: 95.25
+Quadrilateral's perimeter: 40.4
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's area: 201.24
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's area: 201.24
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's perimeter: 47.400000000000006
+Quadrilateral's area: 132.29999999999998
+Quadrilateral's area: 132.29999999999998
+Quadrilateral's perimeter: 47.400000000000006
+Quadrilateral's perimeter: 47.400000000000006
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Sphere's area - 
+Sphere's volume - 
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 11.404918347287664
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's area: 6.000000000000001
+Quadrilateral's perimeter: 8
+Quadrilateral's area: 4
+Quadrilateral's perimeter: 8
+Quadrilateral's area: 4
+Quadrilateral's area: 4
+Quadrilateral's perimeter: 12
+Quadrilateral's area: 9
+Quadrilateral's perimeter: 12
+Quadrilateral's area: 9
+Quadrilateral's area: 9
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 15.8
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's area: 14.040000000000001
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 11
+Quadrilateral's area: 7.5
+Quadrilateral's area: 7.5
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 17.6
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's area: 16.120000000000005
+Quadrilateral's perimeter: 23
+Quadrilateral's area: 32.5
+Quadrilateral's perimeter: 23
+Quadrilateral's area: 32.5
+Quadrilateral's area: 32.5
+Quadrilateral's perimeter: 15
+Quadrilateral's area: 14
+Quadrilateral's perimeter: 15
+Quadrilateral's area: 14
+Quadrilateral's area: 14
+Quadrilateral's perimeter: 26
+Quadrilateral's area: 37.41
+Quadrilateral's perimeter: 26
+Quadrilateral's area: 37.41
+Quadrilateral's area: 37.41
+Quadrilateral's perimeter: 33
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's perimeter: 33
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's area: 22.5
+Quadrilateral's area: 61.56000000000001
+Quadrilateral's perimeter: 19
+Quadrilateral's perimeter: 19
+Quadrilateral's area: 22.5
+Quadrilateral's area: 22.5
+Quadrilateral's perimeter: 40.6
+Quadrilateral's area: 94.9
+Quadrilateral's perimeter: 40.6
+Quadrilateral's area: 94.9
+Quadrilateral's area: 94.9
+Quadrilateral's perimeter: 25.4
+Quadrilateral's area: 38.5
+Quadrilateral's perimeter: 25.4
+Quadrilateral's area: 38.5
+Quadrilateral's area: 38.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 48.8
+Quadrilateral's area: 141
+Quadrilateral's perimeter: 48.8
+Quadrilateral's area: 141
+Quadrilateral's area: 141
+Quadrilateral's perimeter: 40.4
+Quadrilateral's area: 95.25
+Quadrilateral's perimeter: 40.4
+Quadrilateral's area: 95.25
+Quadrilateral's area: 95.25
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 17
+Quadrilateral's area: 17.5
+Quadrilateral's area: 17.5
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's area: 201.24
+Quadrilateral's perimeter: 57.800000000000004
+Quadrilateral's area: 201.24
+Quadrilateral's area: 201.24
+Quadrilateral's perimeter: 47.400000000000006
+Quadrilateral's area: 132.29999999999998
+Quadrilateral's perimeter: 47.400000000000006
+Quadrilateral's area: 132.29999999999998
+Quadrilateral's area: 132.29999999999998

@@ -2,7 +2,7 @@ import { Point3d } from "./point3d";
 import { Shape } from "./shape";
 import { ConeValidator } from "../validators/coneValidator";
 import { repository } from "../repository";
-import { observer } from "../observers/ShapeObserver";
+import { observer } from "../observer";
 import { Point } from "src/entities/point";
 import { ConeManager } from "../managers/coneManager";
 
@@ -39,9 +39,9 @@ export class Cone extends Shape3d {
       this._height = value;
       if (repository.findById(this.id)) {
         observer.notify({
-          action: "changedCoords",
+          event: "changedCoords",
           subscriber: repository,
-          payload: this,
+          hook: this,
         });
       }
     } else {
@@ -53,9 +53,9 @@ export class Cone extends Shape3d {
 
   set center(value: Point3d) {
     observer.notify({
-      action: "changed coords",
+      event: "replaced coordinates",
       subscriber: repository,
-      payload: this,
+      hook: this,
     });
     this._center = value;
   }
@@ -69,9 +69,9 @@ export class Cone extends Shape3d {
       this._radius = value;
       if (repository.findById(this.id)) {
         observer.notify({
-          action: "changedCoords",
+          event: "changedCoords",
           subscriber: repository,
-          payload: this,
+          hook: this,
         });
       }
     } else {

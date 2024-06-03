@@ -1,14 +1,14 @@
 import { Shape } from "./entities/shape";
-import { observer } from "./observers/ShapeObserver";
-import { warehouse } from "./shapeWarehouse";
+import { observer } from "./observer";
+import { warehouse } from "./warehouse";
 import { Oval } from "./entities/oval";
 import { Comparator } from "./comparator";
 import { Point2d } from "./entities/point2d";
 import { Point3d } from "./entities/point3d";
 
 export class Repository {
-  private static instance: Repository;
   private shapes = new Set<Shape>();
+  private static instance: Repository;
 
   private constructor() {}
 
@@ -19,23 +19,21 @@ export class Repository {
     return Repository.instance;
   }
 
-  reset() {
-    this.shapes.clear();
-  }
-
   add(shape: Shape) {
     if (this.shapes.has(shape)) {
       console.log("Shape already exists in the repository.");
       return;
     }
     observer.subscribe({
-      action: "changed coords",
+      event: "replaced coordinates",
       subscriber: this,
+      to: shape,
     });
     observer.notify({
-      action: "update",
+      event: "update",
       subscriber: warehouse,
-      payload: shape,
+      to: shape,
+      hook: shape,
     });
     this.shapes.add(shape);
   }
@@ -46,13 +44,14 @@ export class Repository {
       return;
     }
     observer.unsubscribe({
-      action: "changed coords",
+      event: "replaced coordinates",
       subscriber: this,
+      to: shape,
     });
     observer.notify({
-      action: "remove",
+      event: "remove",
       subscriber: warehouse,
-      payload: shape,
+      hook: shape,
     });
     for (let s of this.shapes) {
       if (s.id === shape.id) {
@@ -187,18 +186,13 @@ export class Repository {
     return Array.from(this.shapes).sort(Comparator.byFirstPoint(point));
   }
 
-  update(eventType: string, payload: Shape) {
-    switch (eventType) {
-      case "changed coords":
-        console.log(`Shape with id ${payload.id} has changed its coordinates.`);
-        observer.notify({
-          action: "update",
-          subscriber: warehouse,
-          payload,
-        });
-        break;
-      default:
-        console.log(`Unknown event type: ${eventType}`);
+  update(eventType: string, hook: Shape) {
+    if (eventType === "replaced coordinates") {
+      observer.notify({
+        event: "update",
+        subscriber: warehouse,
+        hook,
+      });
     }
   }
 }

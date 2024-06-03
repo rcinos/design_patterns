@@ -3,13 +3,14 @@ import { Shape2d } from "./entities/oval";
 import { Shape3d } from "./entities/cone";
 import { Shape3dManager } from "./managers/shape3dManager";
 import { Shape2dManager } from "./managers/shape2dManager";
-import { observer } from "./observers/ShapeObserver";
+import { observer } from "./observer";
+import { repository } from "./repository";
 
-export interface ShapeWarehouse {
+export interface TWarehouse {
   update(eventType: string, shape: Shape): void;
 }
 
-class Warehouse implements ShapeWarehouse {
+class Warehouse implements TWarehouse {
   private static instance: Warehouse;
   private areas: Map<Shape, number> = new Map();
   private perimeters: Map<Shape2d, number> = new Map();
@@ -17,8 +18,9 @@ class Warehouse implements ShapeWarehouse {
 
   private constructor() {
     observer.subscribe({
-      action: "update",
+      event: "update",
       subscriber: this,
+      to: repository,
     });
   }
 

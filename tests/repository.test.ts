@@ -5,7 +5,7 @@ import { OvalFactory } from "../src/factories/ovalFactory";
 import { ConeFactory } from "../src/factories/coneFactory";
 import { ConeManager } from "../src/managers/coneManager";
 import { OvalManager } from "../src/managers/ovalManager";
-import { warehouse } from "../src/shapeWarehouse";
+import { warehouse } from "../src/warehouse";
 import fs from "fs";
 
 function reader(path: string): string[] {
