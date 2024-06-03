@@ -1,9 +1,9 @@
 import { ShapeManager } from "../../shapeManager";
 import { Plane3dDimensions } from "../../../types/planeDimensions";
-import { Sphere } from "../../../../entities/shape/extended/sphere";
+import { Shape3d, Sphere } from "../../../../entities/shape/extended/sphere";
 
 export abstract class Shape3dManager extends ShapeManager {
-  abstract calculateVolume(shape: Sphere): number;
+  abstract calculateVolume(shape: Shape3d): number;
 
   abstract volumesRatioByPlaneDivision(
     shape: Sphere,

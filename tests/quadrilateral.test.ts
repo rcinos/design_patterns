@@ -1,5 +1,5 @@
 import { QuadrilateralFactory } from "../src/factories/shapeFactory/implemented/quadrilateralFactory";
-import { describe, test, expect } from "@jest/globals";
+import { describe, expect, test } from "@jest/globals";
 import * as fs from "fs";
 import { Quadrilateral } from "../src/entities/shape/extended/quadrilateral";
 import { QuadrilateralManager } from "../src/managers/shapeManager/extended/shape2dManager/extended/quadrilateralManager";
@@ -18,6 +18,7 @@ const invalidCoordsList = invalidData
   .map((str) => [str.replace("\r", "")]);
 
 const quadrilateralFactory = new QuadrilateralFactory();
+const manager = new QuadrilateralManager();
 
 describe("Quadrilateral creation", () => {
   // Define tests for each coordinate
@@ -44,7 +45,6 @@ describe("Quadrilateral calculations", () => {
     const quadrilateral = quadrilateralFactory.createShape(
       coordsList[coordsAssigner] as string,
     );
-    const manager = new QuadrilateralManager(quadrilateral);
     coordsAssigner += 1;
     return { quadrilateral, manager };
   }
@@ -52,56 +52,53 @@ describe("Quadrilateral calculations", () => {
   test("Quadrilateral's perimeter", () => {
     const { quadrilateral, manager } = initializeFields();
     console.log(manager, quadrilateral);
-    manager.calculatePerimeter();
-    expect(quadrilateral.perimeter).toBeCloseTo(
-      11.404918347287664,
-      1 / 10 ** 12,
-    );
+    const perimeter = manager.calculatePerimeter(quadrilateral);
+    expect(perimeter).toBeCloseTo(11.404918347287664, 1 / 10 ** 12);
   });
   test("Quadrilateral's perimeter", () => {
     const { quadrilateral, manager } = initializeFields();
-    manager.calculatePerimeter();
-    expect(quadrilateral.perimeter).toBeCloseTo(8, 1 / 10 ** 12);
+    const perimeter = manager.calculatePerimeter(quadrilateral);
+    expect(perimeter).toBeCloseTo(8, 1 / 10 ** 12);
   });
   test("Quadrilateral's perimeter", () => {
     const { quadrilateral, manager } = initializeFields();
-    manager.calculatePerimeter();
-    expect(quadrilateral.perimeter).toBeCloseTo(12, 1 / 10 ** 12);
+    const perimeter = manager.calculatePerimeter(quadrilateral);
+    expect(perimeter).toBeCloseTo(12, 1 / 10 ** 12);
   });
   test("Quadrilateral's perimeter", () => {
     const { quadrilateral, manager } = initializeFields();
-    manager.calculatePerimeter();
-    expect(quadrilateral.perimeter).toBeCloseTo(15.8, 1 / 10 ** 12);
+    const perimeter = manager.calculatePerimeter(quadrilateral);
+    expect(perimeter).toBeCloseTo(15.8, 1 / 10 ** 12);
   });
   test("Quadrilateral's perimeter", () => {
     const { quadrilateral, manager } = initializeFields();
-    manager.calculatePerimeter();
-    expect(quadrilateral.perimeter).toBeCloseTo(11, 1 / 10 ** 12);
+    const perimeter = manager.calculatePerimeter(quadrilateral);
+    expect(perimeter).toBeCloseTo(11, 1 / 10 ** 12);
   });
   test("Quadrilateral's area", () => {
     coordsAssigner = 0;
     const { quadrilateral, manager } = initializeFields();
-    manager.calculateArea();
-    expect(quadrilateral.area).toBeCloseTo(6, 1 / 10 ** 12);
+    const area = manager.calculateArea(quadrilateral);
+    expect(area).toBeCloseTo(6, 1 / 10 ** 12);
   });
   test("Quadrilateral's area", () => {
     const { quadrilateral, manager } = initializeFields();
-    manager.calculateArea();
-    expect(quadrilateral.area).toBeCloseTo(4, 1 / 10 ** 12);
+    const area = manager.calculateArea(quadrilateral);
+    expect(area).toBeCloseTo(4, 1 / 10 ** 12);
   });
   test("Quadrilateral's area", () => {
     const { quadrilateral, manager } = initializeFields();
-    manager.calculateArea();
-    expect(quadrilateral.area).toBeCloseTo(9, 1 / 10 ** 12);
+    const area = manager.calculateArea(quadrilateral);
+    expect(area).toBeCloseTo(9, 1 / 10 ** 12);
   });
   test("Quadrilateral's area", () => {
     const { quadrilateral, manager } = initializeFields();
-    manager.calculateArea();
-    expect(quadrilateral.area).toBeCloseTo(14.04, 1 / 10 ** 12);
+    const area = manager.calculateArea(quadrilateral);
+    expect(area).toBeCloseTo(14.04, 1 / 10 ** 12);
   });
   test("Quadrilateral's area", () => {
     const { quadrilateral, manager } = initializeFields();
-    manager.calculateArea();
-    expect(quadrilateral.area).toBeCloseTo(7.5, 1 / 10 ** 12);
+    const area = manager.calculateArea(quadrilateral);
+    expect(area).toBeCloseTo(7.5, 1 / 10 ** 12);
   });
 });

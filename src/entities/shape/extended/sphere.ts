@@ -2,15 +2,22 @@ import { Point3d } from "../../point/implemented/point3d";
 import { Shape } from "../shape";
 import { SphereValidator } from "../../../validators/shapeValidator/extended/sphereValidator";
 import { repository } from "../../../repository";
+import { observer } from "../../../observers/ShapeObserver";
+import { Point } from "src/entities/point/point";
+import { SphereManager } from "../../../managers/shapeManager/extended/shape3dManager/extended/sphereManager";
 
-export class Sphere extends Shape {
-  readonly id: number;
-  _center: Point3d;
-  _radius: number;
+export abstract class Shape3d extends Shape {}
+
+export class Sphere extends Shape3d {
+  coords?: Point[] | undefined;
+  readonly id: string;
+  private _center: Point3d;
+  private _radius: number;
   readonly name: string = "Sphere";
   validator = new SphereValidator();
+  manager: SphereManager = new SphereManager();
 
-  constructor(id: number, coords: Point3d, radius: number) {
+  constructor(id: string, coords: Point3d, radius: number) {
     super();
     this.id = id;
     this.center = coords;
@@ -22,6 +29,11 @@ export class Sphere extends Shape {
   }
 
   private set center(value: Point3d) {
+    observer.notify({
+      action: "changed coords",
+      subscriber: repository,
+      payload: this,
+    });
     this._center = value;
   }
 
@@ -29,16 +41,15 @@ export class Sphere extends Shape {
     return this._radius;
   }
 
-  private set radius(value: number) {
-    this._radius = value;
-  }
-
-  changeCoords(coords: [Point3d, number]): void {
-    if (this.validator.areValidCoordsWithPoint(coords)) {
+  set radius(value: number) {
+    if (this.validator.areValidCoords([value])) {
+      this._radius = value;
       if (repository.findById(this.id)) {
-        repository.changedCoords(this.id, coords);
-        this.center = coords[0];
-        this.radius = coords[1];
+        observer.notify({
+          action: "changedCoords",
+          subscriber: repository,
+          payload: this,
+        });
       }
     } else {
       throw new Error(

@@ -3,19 +3,19 @@ import { ShapeFactory } from "../shapeFactory";
 import { SphereValidator } from "../../../validators/shapeValidator/extended/sphereValidator";
 import { PointFactory } from "../../pointFactory";
 import { Point3d } from "../../../entities/point/implemented/point3d";
+import crypto from "crypto";
 
 export class SphereFactory implements ShapeFactory {
-  static idAssigner: number = 0;
+  static idAssigner = crypto.randomBytes(16);
   private validator: SphereValidator = new SphereValidator();
   private pointFactory: PointFactory = new PointFactory();
 
   createShape(coords: string): Sphere | never {
-    SphereFactory.idAssigner += 1;
     const listOfCoords = this.convertCoordsToList(coords);
     this.validateCoords(listOfCoords);
     const center = this.createCenter(listOfCoords);
     const radius = this.createRadius(listOfCoords);
-    return new Sphere(SphereFactory.idAssigner, center, radius);
+    return new Sphere(SphereFactory.idAssigner.toString("hex"), center, radius);
   }
 
   private convertCoordsToList(

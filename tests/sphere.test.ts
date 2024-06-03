@@ -2,7 +2,7 @@ import { describe, test, expect } from "@jest/globals";
 import * as fs from "fs";
 import { SphereFactory } from "../src/factories/shapeFactory/implemented/sphereFactory";
 import { Sphere } from "../src/entities/shape/extended/sphere";
-import { SphereManager } from "../src/managers/shapeManager/extended/shape3dManager/extended/sphereManager";
+import { sphereManager as manager } from "../src/managers/shapeManager/extended/shape3dManager/extended/sphereManager";
 
 const validPath =
   "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validSphere.txt";
@@ -40,60 +40,59 @@ describe("Sphere calculations", () => {
     const sphere = sphereFactory.createShape(
       coordsList[coordsAssigner] as string,
     );
-    const manager = new SphereManager(sphere);
     coordsAssigner += 1;
     return { sphere, manager };
   }
 
   test("Sphere's volume", () => {
     const { sphere, manager } = initializeFields();
-    manager.calculateVolume();
-    expect(sphere.volume).toBeCloseTo(113.04, 1 / 10 ** 12);
+    const volume = manager.calculateVolume(sphere);
+    expect(volume).toBeCloseTo(113.04, 1 / 10 ** 12);
   });
   test("Sphere's volume", () => {
     const { sphere, manager } = initializeFields();
-    manager.calculateVolume();
-    expect(sphere.volume).toBeCloseTo(523.6, 1 / 10 ** 12);
+    const volume = manager.calculateVolume(sphere);
+    expect(volume).toBeCloseTo(523.6, 1 / 10 ** 12);
   });
   test("Sphere's volume", () => {
     const { sphere, manager } = initializeFields();
-    manager.calculateVolume();
-    expect(sphere.volume).toBeCloseTo(4188.79, 1 / 10 ** 12);
+    const volume = manager.calculateVolume(sphere);
+    expect(volume).toBeCloseTo(4188.79, 1 / 10 ** 12);
   });
   test("Sphere's volume", () => {
     const { sphere, manager } = initializeFields();
-    manager.calculateVolume();
-    expect(sphere.volume).toBeCloseTo(7238.23, 1 / 10 ** 12);
+    const volume = manager.calculateVolume(sphere);
+    expect(volume).toBeCloseTo(7238.23, 1 / 10 ** 12);
   });
   test("Sphere's volume", () => {
     const { sphere, manager } = initializeFields();
-    manager.calculateVolume();
-    expect(sphere.volume).toBeCloseTo(0.524, 1 / 10 ** 12);
+    const volume = manager.calculateVolume(sphere);
+    expect(volume).toBeCloseTo(0.524, 1 / 10 ** 12);
   });
   test("Sphere's area", () => {
     coordsAssigner = 0;
     const { sphere, manager } = initializeFields();
-    manager.calculateArea();
-    expect(sphere.area).toBeCloseTo(113.04, 1 / 10 ** 12);
+    const area = manager.calculateArea(sphere);
+    expect(area).toBeCloseTo(113.04, 1 / 10 ** 12);
   });
   test("Sphere's area", () => {
     const { sphere, manager } = initializeFields();
-    manager.calculateArea();
-    expect(sphere.area).toBeCloseTo(314.16, 1 / 10 ** 12);
+    const area = manager.calculateArea(sphere);
+    expect(area).toBeCloseTo(314.16, 1 / 10 ** 12);
   });
   test("Sphere's area", () => {
     const { sphere, manager } = initializeFields();
-    manager.calculateArea();
-    expect(sphere.area).toBeCloseTo(1256.64, 1 / 10 ** 12);
+    const area = manager.calculateArea(sphere);
+    expect(area).toBeCloseTo(1256.64, 1 / 10 ** 12);
   });
   test("Sphere's area", () => {
     const { sphere, manager } = initializeFields();
-    manager.calculateArea();
-    expect(sphere.area).toBeCloseTo(1809.56, 1 / 10 ** 12);
+    const area = manager.calculateArea(sphere);
+    expect(area).toBeCloseTo(1809.56, 1 / 10 ** 12);
   });
   test("Sphere's area", () => {
     const { sphere, manager } = initializeFields();
-    manager.calculateArea();
-    expect(sphere.area).toBeCloseTo(3.14, 1 / 10 ** 12);
+    const area = manager.calculateArea(sphere);
+    expect(area).toBeCloseTo(3.14, 1 / 10 ** 12);
   });
 });

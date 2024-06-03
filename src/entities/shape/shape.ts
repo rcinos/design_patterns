@@ -1,6 +1,9 @@
-export abstract class Shape {
-  abstract readonly id: number;
-  abstract readonly name: string;
+import { Point } from "../point/point";
+import { ShapeManager } from "../../managers/shapeManager/shapeManager";
 
-  abstract changeCoords(coords: unknown): void;
+export abstract class Shape {
+  abstract readonly id: string;
+  abstract readonly name: string;
+  abstract coords?: Point[];
+  abstract manager: ShapeManager;
 }

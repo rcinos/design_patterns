@@ -2,14 +2,19 @@ import { Point2d } from "../../point/implemented/point2d";
 import { Shape } from "../shape";
 import { QuadrilateralValidator } from "../../../validators/shapeValidator/extended/quadrilateralValidator";
 import { repository } from "../../../repository";
+import { observer } from "../../../observers/ShapeObserver";
+import { QuadrilateralManager } from "../../../managers/shapeManager/extended/shape2dManager/extended/quadrilateralManager";
 
-export class Quadrilateral extends Shape {
-  readonly id: number;
-  _coords: [Point2d, Point2d, Point2d, Point2d];
+export abstract class Shape2d extends Shape {}
+
+export class Quadrilateral extends Shape2d {
+  readonly id: string;
+  private _coords: [Point2d, Point2d, Point2d, Point2d];
   readonly name: string = "Quadrilateral";
   validator = new QuadrilateralValidator();
+  manager: QuadrilateralManager = new QuadrilateralManager();
 
-  constructor(id: number, coords: [Point2d, Point2d, Point2d, Point2d]) {
+  constructor(id: string, coords: [Point2d, Point2d, Point2d, Point2d]) {
     super();
     this.id = id;
     this.coords = coords;
@@ -19,19 +24,19 @@ export class Quadrilateral extends Shape {
     return this._coords;
   }
 
-  private set coords(value: [Point2d, Point2d, Point2d, Point2d]) {
-    this._coords = value;
-  }
-
-  changeCoords(coords: [Point2d, Point2d, Point2d, Point2d]): void {
-    if (this.validator.areValidCoordsWithPoints(coords)) {
+  set coords(value: [Point2d, Point2d, Point2d, Point2d]) {
+    if (this.validator.areValidCoordsWithPoints(value)) {
+      this._coords = value;
       if (repository.findById(this.id)) {
-        repository.changedCoords(this.id, coords);
-        this.coords = coords;
+        observer.notify({
+          action: "changed coords",
+          subscriber: repository,
+          payload: this,
+        });
       }
     } else {
       throw new Error(
-        "Invalid coordinates for a quadrilateral. Please provide 4 points.",
+        "Incorrect input data. You need 4 2d points to create a Quadrilateral",
       );
     }
   }

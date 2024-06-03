@@ -1,9 +1,7 @@
 import { TShapeObserver, Updatable } from "./types/TShapeObserver";
-import { Quadrilateral } from "../entities/shape/extended/quadrilateral";
-import { Shape } from "../entities/shape/shape";
 
 export class ShapeObserver {
-  private listeners: TShapeObserver<any, Shape>[] = [];
+  private listeners: TShapeObserver<any>[] = [];
   private static instance: ShapeObserver;
 
   private constructor() {}
@@ -15,50 +13,43 @@ export class ShapeObserver {
     return ShapeObserver.instance;
   }
 
-  subscribe<T extends Updatable<string, Shape>>({
+  subscribe<T extends Updatable>({
     action,
     subscriber,
-    target,
-  }: TShapeObserver<T, Shape>): void {
-    this.listeners.forEach((listener) => {
-      if (
-        listener.action === action &&
-        listener.subscriber === subscriber &&
-        listener.target === target
-      ) {
-        return;
-      }
-      this.listeners.push({ action, subscriber, target });
-    });
+  }: TShapeObserver<T>): void {
+    const existingListener = this.listeners.find(
+      (listener) =>
+        listener.action === action && listener.subscriber === subscriber,
+    );
+
+    if (!existingListener) {
+      this.listeners.push({ action, subscriber });
+    }
   }
 
-  unsubscribe<T extends Updatable<string, Shape>>({
+  unsubscribe<T extends Updatable>({
     action,
     subscriber,
-    target,
-  }: TShapeObserver<T, Shape>): void {
-    this.listeners.filter(
+  }: TShapeObserver<T>): void {
+    this.listeners = this.listeners.filter(
       (listener) =>
-        listener.action !== action &&
-        listener.subscriber !== subscriber &&
-        listener.target !== target,
+        listener.action !== action && listener.subscriber !== subscriber,
     );
   }
 
-  notify<T extends Updatable<string, Shape>>({
+  notify<T extends Updatable>({
     action,
     subscriber,
-    target,
-  }: TShapeObserver<T, Quadrilateral>): void {
+    payload,
+  }: TShapeObserver<T>): void {
     const listener = this.listeners.find(
       (listener) =>
-        listener.action === action &&
-        listener.target === target &&
-        listener.subscriber === subscriber,
+        listener.action === action && listener.subscriber === subscriber,
     );
-
     if (listener) {
-      subscriber.update(action, target);
+      subscriber.update(action, payload);
     }
   }
 }
+
+export const observer = ShapeObserver.getInstance();

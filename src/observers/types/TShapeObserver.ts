@@ -1,12 +1,9 @@
-export type TShapeObserver<
-  Subscriber extends Updatable<string, Shape>,
-  Shape,
-> = {
+export type TShapeObserver<Subscriber extends Updatable> = {
   action: string;
   subscriber: Subscriber;
-  target: Shape;
+  payload?: any;
 };
 
-export type Updatable<Action, Target> = {
-  update(action: Action, target: Target): void;
+export type Updatable = {
+  update(action: string, payload?: any): void;
 };

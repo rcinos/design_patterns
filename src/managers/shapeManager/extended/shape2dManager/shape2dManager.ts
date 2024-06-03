@@ -2,10 +2,10 @@ import { ShapeManager } from "../../shapeManager";
 import { Point2d } from "../../../../entities/point/implemented/point2d";
 import { Plane2dDimensions } from "../../../types/planeDimensions";
 import { getApproximateValue } from "../../../../functions/getApproximateValue";
-import { Quadrilateral } from "../../../../entities/shape/extended/quadrilateral";
+import { Shape2d } from "../../../../entities/shape/extended/quadrilateral";
 
 export abstract class Shape2dManager extends ShapeManager {
-  abstract calculatePerimeter(shape: Quadrilateral): void;
+  abstract calculatePerimeter(shape: Shape2d): number;
 
   protected calculateSinBetweenSideAndProjection(
     pointA: Point2d,
