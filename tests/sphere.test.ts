@@ -2,7 +2,7 @@ import { describe, test, expect } from "@jest/globals";
 import * as fs from "fs";
 import { SphereFactory } from "../src/factories/shapeFactory/implemented/sphereFactory";
 import { Sphere } from "../src/entities/shape/extended/sphere";
-import { sphereManager as manager } from "../src/managers/shapeManager/extended/shape3dManager/extended/sphereManager";
+import { SphereManager } from "../src/managers/shapeManager/extended/shape3dManager/extended/sphereManager";
 
 const validPath =
   "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validSphere.txt";
@@ -16,6 +16,7 @@ const invalidCoordsList = invalidData
   .split("\n")
   .map((str) => [str.replace("\r", "")]);
 const sphereFactory = new SphereFactory();
+const manager = new SphereManager();
 
 describe("Sphere creation", () => {
   // Define tests for each coordinate

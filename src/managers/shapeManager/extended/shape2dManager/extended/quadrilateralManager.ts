@@ -34,16 +34,23 @@ export class QuadrilateralManager extends Shape2dManager {
       this.coords[0],
       this.coords[2],
     );
+    console.log(
+      `Extracted info: ${JSON.stringify(this.sides)}, Diagonals: ${this.diagonalBottomLeftToTopRight}, ${this.diagonalTopLeftToBottomRight}`,
+    );
   }
 
   calculatePerimeter(shape: Quadrilateral) {
     this.extractInfo(shape);
-    console.log("Quadrilateral's perimeter");
-    promises.writeFile(logs, "Quadrilateral's perimeter" + "\n", {
+    const perimeter = Object.values(this.sides).reduce(
+      (acc, side) => acc + side,
+      0,
+    );
+    console.log(`Quadrilateral's perimeter: ${perimeter}`);
+    promises.writeFile(logs, `Quadrilateral's perimeter: ${perimeter}\n`, {
       flag: "a",
       encoding: "utf8",
     });
-    return Object.values(this.sides).reduce((acc, side) => acc + side, 0);
+    return perimeter;
   }
 
   calculateArea(shape: Quadrilateral) {
@@ -66,12 +73,7 @@ export class QuadrilateralManager extends Shape2dManager {
         ) **
           2,
     );
-    console.log("Quadrilateral's area");
-    promises.writeFile(logs, "Quadrilateral's area - " + "\n", {
-      flag: "a",
-      encoding: "utf8",
-    });
-    return (
+    const area =
       0.5 *
         this.sides.bottomSide *
         this.sides.leftSide *
@@ -79,8 +81,13 @@ export class QuadrilateralManager extends Shape2dManager {
       0.5 *
         this.sides.topSide *
         this.sides.rightSide *
-        sinBetweenTopAndRightSides
-    );
+        sinBetweenTopAndRightSides;
+    console.log(`Quadrilateral's area: ${area}`);
+    promises.writeFile(logs, `Quadrilateral's area: ${area}\n`, {
+      flag: "a",
+      encoding: "utf8",
+    });
+    return area;
   }
 
   isConvex(shape: Quadrilateral): boolean {
@@ -113,66 +120,63 @@ export class QuadrilateralManager extends Shape2dManager {
         this.diagonalBottomLeftToTopRight,
       ),
     );
-    console.log("Quadrilateral is convex");
-
-    promises.writeFile(logs, "Quadrilateral is convex - " + "\n", {
-      flag: "a",
-      encoding: "utf8",
-    });
-
-    return (
+    const isConvex =
       getApproximateValue(
         angleBetweenTopAndRightSides +
           angleBetweenRightAndBottomSides +
           angleBetweenBottomAndLeftSides +
           angleBetweenLeftAndTopSides,
-      ) === getApproximateValue(2 * Math.PI)
-    );
+      ) === getApproximateValue(2 * Math.PI);
+    console.log(`Quadrilateral is convex: ${isConvex}`);
+    promises.writeFile(logs, `Quadrilateral is convex: ${isConvex}\n`, {
+      flag: "a",
+      encoding: "utf8",
+    });
+    return isConvex;
   }
 
   isRectangle(shape: Quadrilateral): boolean {
     this.extractInfo(shape);
-    console.log("Quadrilateral is rectangle");
-    promises.writeFile(logs, "Quadrilateral is rectangle - " + "\n", {
+    const isRectangle =
+      this.isParallelogram(shape) &&
+      this.diagonalTopLeftToBottomRight === this.diagonalBottomLeftToTopRight;
+    console.log(`Quadrilateral is rectangle: ${isRectangle}`);
+    promises.writeFile(logs, `Quadrilateral is rectangle: ${isRectangle}\n`, {
       flag: "a",
       encoding: "utf8",
     });
-    return (
-      this.isParallelogram(shape) &&
-      this.diagonalTopLeftToBottomRight === this.diagonalBottomLeftToTopRight
-    );
+    return isRectangle;
   }
 
   isRhombus(shape: Quadrilateral): boolean {
     this.extractInfo(shape);
-    console.log("Quadrilateral is rhombus");
-    promises.writeFile(logs, "Quadrilateral is rhombus - " + "\n", {
-      flag: "a",
-      encoding: "utf8",
-    });
-    // check if all sides are equal
-    return (
+    const isRhombus =
       this.isConvex(shape) &&
       new Set([
         this.sides.topSide,
         this.sides.bottomSide,
         this.sides.leftSide,
         this.sides.rightSide,
-      ]).size === 1
-    );
+      ]).size === 1;
+    console.log(`Quadrilateral is rhombus: ${isRhombus}`);
+    promises.writeFile(logs, `Quadrilateral is rhombus: ${isRhombus}\n`, {
+      flag: "a",
+      encoding: "utf8",
+    });
+    return isRhombus;
   }
 
   isSquare(shape: Quadrilateral): boolean {
     this.extractInfo(shape);
-    console.log("Quadrilateral is square");
-    promises.writeFile(logs, "Quadrilateral is square - " + "\n", {
+    const isSquare =
+      this.isRhombus(shape) &&
+      this.diagonalBottomLeftToTopRight === this.diagonalTopLeftToBottomRight;
+    console.log(`Quadrilateral is square: ${isSquare}`);
+    promises.writeFile(logs, `Quadrilateral is square: ${isSquare}\n`, {
       flag: "a",
       encoding: "utf8",
     });
-    return (
-      this.isRhombus(shape) &&
-      this.diagonalBottomLeftToTopRight === this.diagonalTopLeftToBottomRight
-    );
+    return isSquare;
   }
 
   isTrapezoid(shape: Quadrilateral): boolean {
@@ -208,25 +212,25 @@ export class QuadrilateralManager extends Shape2dManager {
       this.sides.rightSide,
       "x",
     );
-    console.log("Quadrilateral is trapezoid");
-    const fs = require("fs");
 
-    fs.promises.writeFile(logs, "Quadrilateral is trapezoid - " + "\n", {
+    const isTrapezoid =
+      (sinBottomSide === sinTopSide && sinLeftSide !== sinRightSide) ||
+      (sinRightSide === sinLeftSide && sinBottomSide !== sinTopSide);
+    console.log(`Quadrilateral is trapezoid: ${isTrapezoid}`);
+    promises.writeFile(logs, `Quadrilateral is trapezoid: ${isTrapezoid}\n`, {
       flag: "a",
       encoding: "utf8",
     });
-    return (
-      (sinBottomSide === sinTopSide && sinLeftSide !== sinRightSide) ||
-      (sinRightSide === sinLeftSide && sinBottomSide !== sinTopSide)
-    );
+    return isTrapezoid;
   }
 
   private isParallelogram(shape: Quadrilateral): boolean {
     this.extractInfo(shape);
-    return (
+    const isParallelogram =
       this.isConvex(shape) &&
       this.sides.topSide === this.sides.bottomSide &&
-      this.sides.leftSide === this.sides.rightSide
-    );
+      this.sides.leftSide === this.sides.rightSide;
+    console.log(`Quadrilateral is parallelogram: ${isParallelogram}`);
+    return isParallelogram;
   }
 }

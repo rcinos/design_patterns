@@ -97,7 +97,10 @@ describe("Repository", () => {
   test("sortById method should return shapes sorted by their id", () => {
     repository.add(quadrilateral);
     repository.add(sphere);
-    expect(repository.sortById()).toEqual([quadrilateral, sphere]);
+
+    expect(repository.sortById()).toEqual(
+      [quadrilateral, sphere].sort((a, b) => a.id.localeCompare(b.id)),
+    );
   });
 
   test("sortByNames method should return shapes sorted by their name", () => {
