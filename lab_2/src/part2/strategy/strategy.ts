@@ -1,6 +1,6 @@
 import { Product } from "../shop";
 
-interface Strategy {
+export interface Strategy {
   sort(products: Product[]): Product[];
 }
 
