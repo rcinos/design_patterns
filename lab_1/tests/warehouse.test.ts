@@ -1,10 +1,10 @@
-import { Repository } from "../src/repository";
+import { Repository } from "../../src/repository";
 import { fileReader } from "../fileReader";
-import { QuadrilateralFactory } from "../src/factories/shapeFactory/implemented/quadrilateralFactory";
-import { SphereManager } from "../src/managers/shapeManager/extended/shape3dManager/extended/sphereManager";
-import { warehouse } from "../src/shapeWarehouse";
-import { QuadrilateralManager } from "../src/managers/shapeManager/extended/shape2dManager/extended/quadrilateralManager";
-import { SphereFactory } from "../src/factories/shapeFactory/implemented/sphereFactory";
+import { QuadrilateralFactory } from "../../src/factories/shapeFactory/implemented/quadrilateralFactory";
+import { SphereManager } from "../../src/managers/shapeManager/extended/shape3dManager/extended/sphereManager";
+import { warehouse } from "../../src/shapeWarehouse";
+import { QuadrilateralManager } from "../../src/managers/shapeManager/extended/shape2dManager/extended/quadrilateralManager";
+import { SphereFactory } from "../../src/factories/shapeFactory/implemented/sphereFactory";
 
 const coordsForQuadrilateral = fileReader(
   "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validQuadrilateral.txt",

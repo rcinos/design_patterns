@@ -1,8 +1,8 @@
-import { QuadrilateralFactory } from "../src/factories/shapeFactory/implemented/quadrilateralFactory";
+import { QuadrilateralFactory } from "../../src/factories/shapeFactory/implemented/quadrilateralFactory";
 import { describe, expect, test } from "@jest/globals";
 import * as fs from "fs";
-import { Quadrilateral } from "../src/entities/shape/extended/quadrilateral";
-import { QuadrilateralManager } from "../src/managers/shapeManager/extended/shape2dManager/extended/quadrilateralManager";
+import { Quadrilateral } from "../../src/entities/shape/extended/quadrilateral";
+import { QuadrilateralManager } from "../../src/managers/shapeManager/extended/shape2dManager/extended/quadrilateralManager";
 
 const validPath =
   "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validQuadrilateral.txt";

@@ -1,8 +1,8 @@
 import { describe, test, expect } from "@jest/globals";
 import * as fs from "fs";
-import { SphereFactory } from "../src/factories/shapeFactory/implemented/sphereFactory";
-import { Sphere } from "../src/entities/shape/extended/sphere";
-import { SphereManager } from "../src/managers/shapeManager/extended/shape3dManager/extended/sphereManager";
+import { SphereFactory } from "../../src/factories/shapeFactory/implemented/sphereFactory";
+import { Sphere } from "../../src/entities/shape/extended/sphere";
+import { SphereManager } from "../../src/managers/shapeManager/extended/shape3dManager/extended/sphereManager";
 
 const validPath =
   "C:\\projects\\ts\\design_patterns\\resources\\InstancesCoordinates\\validSphere.txt";
