@@ -1,73 +1,54 @@
-// BankProduct interface
-import { BankProduct } from "./builder";
-
 export interface IBankProduct {
-  getDescription(): string;
-  getBalance(): number;
+  balance: number;
+  interestRate: number;
+  subscriptionType: string;
+  rawCreditLimit: number;
+  calculateCreditLimit(): void;
+  deductFee(): void;
 }
 
-// Concrete BankProduct implementing IBankProduct
-export class ConcreteBankProduct implements IBankProduct {
-  private product: BankProduct;
+export class Decorator implements IBankProduct {
+  protected product: IBankProduct;
 
-  constructor(product: BankProduct) {
+  constructor(product: IBankProduct) {
     this.product = product;
   }
 
-  getDescription(): string {
-    return `Type: ${this.product.accountType}, Balance: ${this.product.balance}, Interest Rate: ${this.product.interestRate}`;
-  }
-
-  getBalance(): number {
+  get balance(): number {
     return this.product.balance;
   }
-}
 
-// Decorator base class
-export class BankProductDecorator implements IBankProduct {
-  protected decoratedProduct: IBankProduct;
-
-  constructor(decoratedProduct: IBankProduct) {
-    this.decoratedProduct = decoratedProduct;
+  get interestRate(): number {
+    return this.product.interestRate;
   }
 
-  getDescription(): string {
-    return this.decoratedProduct.getDescription();
+  get subscriptionType(): string {
+    return this.product.subscriptionType;
   }
 
-  getBalance(): number {
-    return this.decoratedProduct.getBalance();
-  }
-}
-
-// Concrete Decorator: Overdraft
-export class OverdraftDecorator extends BankProductDecorator {
-  private overdraftLimit: number;
-
-  constructor(decoratedProduct: IBankProduct, overdraftLimit: number) {
-    super(decoratedProduct);
-    this.overdraftLimit = overdraftLimit;
+  get rawCreditLimit(): number {
+    return this.product.rawCreditLimit;
   }
 
-  getDescription(): string {
-    return `${super.getDescription()}, Overdraft Limit: ${this.overdraftLimit}`;
+  calculateCreditLimit(): void {
+    this.product.calculateCreditLimit();
   }
 
-  getBalance(): number {
-    return super.getBalance() - this.overdraftLimit;
+  deductFee(): void {
+    this.product.deductFee();
   }
 }
 
-// Concrete Decorator: Rewards
-export class RewardsDecorator extends BankProductDecorator {
-  private rewardsPoints: number;
-
-  constructor(decoratedProduct: IBankProduct, rewardsPoints: number) {
-    super(decoratedProduct);
-    this.rewardsPoints = rewardsPoints;
+export class ProSubscriberDecorator extends Decorator {
+  calculateCreditLimit(): void {
+    console.log("Calculating credit limit for Pro subscriber");
+    this.product.calculateCreditLimit();
   }
+}
 
-  getDescription(): string {
-    return `${super.getDescription()}, Rewards Points: ${this.rewardsPoints}`;
+export class PremiumSubscriberDecorator extends Decorator {
+  calculateCreditLimit(): void {
+    console.log("Calculating credit limit for Premium subscriber");
+    this.product.calculateCreditLimit();
   }
 }

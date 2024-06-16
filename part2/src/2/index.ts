@@ -1,32 +1,23 @@
-// Using Builder to create a bank product
-import { ConcreteBankProductBuilder } from "./builder";
-import {
-  ConcreteBankProduct,
-  OverdraftDecorator,
-  RewardsDecorator,
-} from "./decorator";
+import { BankProductBuilder, Director } from "./builder";
 import { CalculateInterestStrategy, DeductFeesStrategy } from "./strategy";
 
-const builder = new ConcreteBankProductBuilder();
-const product = builder
-  .setAccountType("Savings")
-  .setBalance(1000)
-  .setInterestRate(0.05)
-  .build();
+// calculations for a basic subscriber
+const builder = new BankProductBuilder();
 
-const bankProduct = new ConcreteBankProduct(product);
-console.log(bankProduct.getDescription()); // Output: Type: Savings, Balance: 1000, Interest Rate: 0.05
+const director = new Director();
 
-// Using Decorator to add functionalities
-const productWithOverdraft = new OverdraftDecorator(bankProduct, 200);
-console.log(productWithOverdraft.getDescription()); // Output: Type: Savings, Balance: 1000, Interest Rate: 0.05, Overdraft Limit: 200
+director.setBuilder(builder);
+director.buildBasicSubscriber();
 
-const productWithRewards = new RewardsDecorator(productWithOverdraft, 500);
-console.log(productWithRewards.getDescription()); // Output: Type: Savings, Balance: 1000, Interest Rate: 0.05, Overdraft Limit: 200, Rewards Points: 500
+const basicSubscriber = builder.build();
 
-// Using Strategy to process products
-const calculateInterest = new CalculateInterestStrategy();
-calculateInterest.process(productWithRewards); // Output: Calculated interest: 50
+const interestStrategy = new CalculateInterestStrategy();
+const feeStrategy = new DeductFeesStrategy();
 
-const deductFees = new DeductFeesStrategy();
-deductFees.process(productWithRewards); // Output: Balance after fee deduction: 790
+basicSubscriber.setStrategy(interestStrategy);
+
+basicSubscriber.calculateCreditLimit();
+
+basicSubscriber.setStrategy(feeStrategy);
+
+basicSubscriber.deductFee();
