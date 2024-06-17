@@ -1,8 +1,6 @@
 import { Visitor } from "./visitor";
 
 export interface Shape {
-  calculateArea(): number;
-  calculatePerimeter(): number;
   accept(visitor: Visitor): void;
   showForTV(): void;
   showForMobile(): void;
@@ -11,14 +9,6 @@ export interface Shape {
 }
 
 export class Circle implements Shape {
-  calculateArea(): number {
-    return Math.random() * 100;
-  }
-
-  calculatePerimeter(): number {
-    return Math.random() * 100;
-  }
-
   showForTV(): void {
     console.log("Circle for TV");
   }
@@ -38,14 +28,6 @@ export class Circle implements Shape {
 }
 
 export class Square implements Shape {
-  calculateArea(): number {
-    return Math.random() * 100;
-  }
-
-  calculatePerimeter(): number {
-    return Math.random() * 100;
-  }
-
   showForTV(): void {
     console.log("Square for TV");
   }
@@ -65,14 +47,6 @@ export class Square implements Shape {
 }
 
 export class Triangle implements Shape {
-  calculateArea(): number {
-    return Math.random() * 100;
-  }
-
-  calculatePerimeter(): number {
-    return Math.random() * 100;
-  }
-
   showForTV(): void {
     console.log("Triangle for TV");
   }

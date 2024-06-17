@@ -8,28 +8,40 @@ export interface Visitor {
 
 export class AreaVisitor implements Visitor {
   visitCircle(element: Circle): void {
-    console.log(element.calculateArea(), "Circle Area");
+    console.log(Math.random() * 100, element.constructor.name, "Circle Area");
   }
 
   visitSquare(element: Square): void {
-    console.log(element.calculateArea(), "Square Area");
+    console.log(Math.random() * 100, element.constructor.name, "Square Area");
   }
 
   visitTriangle(element: Triangle): void {
-    console.log(element.calculateArea(), "Triangle Area");
+    console.log(Math.random() * 100, element.constructor.name, "Triangle Area");
   }
 }
 
 export class PerimeterVisitor implements Visitor {
   visitCircle(element: Circle): void {
-    console.log(element.calculatePerimeter(), "Circle Perimeter");
+    console.log(
+      Math.random() * 10,
+      element.constructor.name,
+      "Circle Perimeter",
+    );
   }
 
   visitSquare(element: Square): void {
-    console.log(element.calculatePerimeter(), "Square Perimeter");
+    console.log(
+      Math.random() * 10,
+      element.constructor.name,
+      "Square Perimeter",
+    );
   }
 
   visitTriangle(element: Triangle): void {
-    console.log(element.calculatePerimeter(), "Triangle Perimeter");
+    console.log(
+      Math.random() * 10,
+      element.constructor.name,
+      "Triangle Perimeter",
+    );
   }
 }
